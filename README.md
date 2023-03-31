@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<h3 align="center">I'm Leon <i>Liu Zhengyang</i></h3>
+<h3 align="center">I'm Leon <i>LiuZhengyang</i></h3>
 
 ### About Me
 - 🌍 I’m From China and currently living in Japan
